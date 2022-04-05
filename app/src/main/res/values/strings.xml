@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BitcoinApp2</string>
+    <string name="connection_status_connected">Connected!</string>
+    <string name="connection_status_connecting">Connecting..</string>
+    <string name="connection_status_disconnected">X Disconnected X</string>
+    <string name="connection_status_unknown">Un Known</string>
+    <string name="start_connection">Start Connection</string>
+    <string name="clear_queue">Clear Queue</string>
+</resources>
